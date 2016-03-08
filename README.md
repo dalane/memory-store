@@ -1,2 +1,3 @@
-# memory-store
-A simple javascript in memory store
+# A simple javascript in memory store
+
+## Installation

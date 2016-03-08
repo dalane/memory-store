@@ -1,0 +1,23 @@
+{
+  "name": "@dalane/memory-store",
+  "version": "1.0.0",
+  "description": "A simple javascript in memory store",
+  "main": "./lib/memory-store.js",
+  "scripts": {
+    "test": "./node_modules/.bin/istanbul cover ./node_modules/.bin/jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dalane/memory-store.git"
+  },
+  "author": "Dallas Ewing <developers@dalane.io>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dalane/memory-store/issues"
+  },
+  "homepage": "https://github.com/dalane/memory-store#readme",
+  "devDependencies": {
+    "istanbul": "^0.4.2",
+    "jasmine": "^2.4.1"
+  }
+}
